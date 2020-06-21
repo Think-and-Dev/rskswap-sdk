@@ -8,7 +8,9 @@ export enum ChainId {
   ROPSTEN = 3,
   RINKEBY = 4,
   GÖRLI = 5,
-  KOVAN = 42
+  KOVAN = 42,
+  RSK_MAINNET = 30,
+  RSK_TESTNET = 31
 }
 
 export enum TradeType {

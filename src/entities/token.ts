@@ -94,5 +94,7 @@ export const WETH = {
     'Wrapped Ether'
   ),
   [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6', 18, 'WETH', 'Wrapped Ether'),
-  [ChainId.KOVAN]: new Token(ChainId.KOVAN, '0xd0A1E359811322d97991E03f863a0C30C2cF029C', 18, 'WETH', 'Wrapped Ether')
+  [ChainId.KOVAN]: new Token(ChainId.KOVAN, '0xd0A1E359811322d97991E03f863a0C30C2cF029C', 18, 'WETH', 'Wrapped Ether'),
+  [ChainId.RSK_MAINNET]: new Token(ChainId.RSK_MAINNET, '0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0', 18, 'WRBTC', 'Wrapped RBTC'),
+  [ChainId.RSK_TESTNET]: new Token(ChainId.RSK_TESTNET, '0x09B6Ca5E4496238a1F176aEA6bB607db96C2286E', 18, 'WRBTC', 'Wrapped RBTC')
 }
