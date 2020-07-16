@@ -1,5 +1,5 @@
 {
-  "name": "uniswap-sdk-rsk",
+  "name": "@thinkanddev/uniswap-sdk-rsk",
   "license": "GPL-3.0-or-later",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Uniswap for RSK.",

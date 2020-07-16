@@ -5,10 +5,10 @@ env:
 on:
   pull_request:
     branches:
-      - v2
+      - rsk-v2
   push:
     branches:
-      - v2
+      - rsk-v2
 
 jobs:
   test:
