@@ -1,18 +1,19 @@
 {
-  "name": "@thinkanddev/uniswap-sdk-rsk",
+  "name": "@thinkanddev/rskswap-sdk",
   "license": "GPL-3.0-or-later",
   "version": "1.0.1",
-  "description": "🛠 An SDK for building applications on top of Uniswap for RSK.",
+  "description": "🛠 An SDK for building applications on top of Rskswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Think-and-Dev/uniswap-sdk-rsk",
+  "repository": "https://github.com/Think-and-Dev/rskswap-sdk",
   "keywords": [
     "uniswap",
     "sdk",
-    "rsk"
+    "rsk",
+    "rskswap"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
