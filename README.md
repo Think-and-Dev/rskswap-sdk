@@ -1,5 +1,5 @@
 # RskSwap SDK
-This is a fork of the Uniswap Protocol adapted to the RSK Network
+Type Script library to connect with the RSK Swap protocol
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![npm version](https://img.shields.io/npm/v/@thinkanddev/rskswap-sdk/latest.svg)](https://www.npmjs.com/package/@thinkanddev/rskswap-sdk/v/latest)
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@thinkanddev/rskswap-sdk/latest.svg)](https://bundlephobia.com/result?p=@thinkanddev/rskswap-sdk@latest)
