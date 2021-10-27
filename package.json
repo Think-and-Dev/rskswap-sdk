@@ -14,7 +14,7 @@
     "rsk",
     "rskswap"
   ],
-  "module": "dist/sdk.esm.js",
+  "module": "dist/rskswap-sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
     "build": "tsdx build",
