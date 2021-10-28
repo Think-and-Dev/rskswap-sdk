@@ -1,7 +1,7 @@
 {
   "name": "@thinkanddev/rskswap-sdk",
   "license": "GPL-3.0-or-later",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "🛠 An SDK for building applications on top of Rskswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
